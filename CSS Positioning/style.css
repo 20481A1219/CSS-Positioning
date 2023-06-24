@@ -1,0 +1,33 @@
+#flag{
+    border: 2px solid black;
+    height: 304px;
+    width: 456px;
+    position: relative;
+    top: 25%;
+    left: 30%;
+  }
+  #first{
+    background-color: orange;
+    height: 100px;
+    width: 100%;
+    border-bottom: 2px solid black;
+  }
+  #second{
+    height: 100px;
+    width: 100%;
+    border-bottom: 2px solid black;
+  }
+  #third{
+    background-color: green;
+    height: 100px;
+    width: 100%;
+    border-bottom: 2px solid black;
+  }
+  #circle{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    position: relative;
+    left: 40%;
+    top: 5%;
+  }
